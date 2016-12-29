@@ -1,3 +1,7 @@
+# About
+
+This Angular 2 application presents a GitHub micro search engine for searching user information.
+
 # Githubsearch
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.24.
